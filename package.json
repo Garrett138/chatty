@@ -1,0 +1,24 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "chatty project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garrett138/chatty.git"
+  },
+  "author": "Garrett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Garrett138/chatty/issues"
+  },
+  "homepage": "https://github.com/Garrett138/chatty#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "package-name": "^0.1.0"
+  }
+}
